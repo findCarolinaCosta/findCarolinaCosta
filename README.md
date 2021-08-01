@@ -15,7 +15,8 @@ Amo tecnologia, sejam bem vindos ao meu GitHub!<br/>
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic91/dcf1f8b761cdfb472e271967f0142075.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a 
+   <img align="center" alt="Carol-BASH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bash/bash-original.svg">
+  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic91/dcf1f8b761cdfb472e271967f0142075.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a 
  </div>
   
 ## 
@@ -23,4 +24,6 @@ Amo tecnologia, sejam bem vindos ao meu GitHub!<br/>
 <div>
   <img width="100px" src="https://komarev.com/ghpvc/?username=findCarolinaCosta&color=green" alt="findCarolinaCosta" />
  <a href="https://www.linkedin.com/in/carolinapereiradacosta/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="100px" target="_blank"></a>
+
+ ![Snake animation](https://github.com/findCarolinaCosta/findCarolinaCosta/blob/output/github-contribution-grid-snake.svg)
 </div>
