@@ -24,6 +24,7 @@ Amo tecnologia, sejam bem vindos ao meu GitHub!<br/>
 <div>
   <img width="100px" src="https://komarev.com/ghpvc/?username=findCarolinaCosta&color=green" alt="findCarolinaCosta" />
  <a href="https://www.linkedin.com/in/carolinapereiradacosta/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="100px" target="_blank"></a>
+<a href = "mailto: carolinadacosta1997@gmail.com"><img align="right" width="80px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  ![Snake animation](https://github.com/findCarolinaCosta/findCarolinaCosta/blob/output/github-contribution-grid-snake.svg)
 </div>
