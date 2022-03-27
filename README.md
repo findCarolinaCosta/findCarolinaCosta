@@ -44,5 +44,5 @@ Don't forget to check out pinned projects 👩‍💻 <br/>
 <div>
  <a href="https://www.linkedin.com/in/carolinapereiradacosta/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="100px" target="_blank"></a>
 <a href="mailto:carolinadacosta1997@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail" width="100px">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail" width="75px">
 </a>
