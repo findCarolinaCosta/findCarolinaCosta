@@ -4,7 +4,7 @@ Don't forget to check out pinned projects 👩‍💻 <br/>
 <div>
 
 <div style="display: inline_block"><br>
-<h3>Some tech skill:</h3>
+<h3>Some tech stacks:</h3>
   <p align="left">
 <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" alt="linux" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/60375231/160279017-5fcbe9da-2aee-4a90-a3e9-bcd5deff9a1e.png" alt="bash" width="40" height="40" />
@@ -31,7 +31,7 @@ Don't forget to check out pinned projects 👩‍💻 <br/>
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/slack_icon_130829.png" alt="slack">
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Trello_icon-icons.com_66775.png" alt="trello">
   <img height="40" width="40" src="https://www.notion.so/front-static/favicon.ico" alt="notion">
-<img src="https://sequelize.org/master/manual/asset/logo-small.png" alt="sequelize" width="40" height="40" />
+<img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="40" height="40" />
  <img src="https://user-images.githubusercontent.com/80691766/134706033-799f21ca-b461-4c2d-8a03-417b134cc8dd.png" alt="react-testing-library" width="40" height="40"/>
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" /> -->
 </p>
