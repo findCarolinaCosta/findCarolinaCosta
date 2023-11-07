@@ -16,6 +16,8 @@ I find beauty in elegant code and efficiency in problem-solving. My area of expe
 - Frameworks: NodeJS, Spring, .NET, Django, NextJS
 - Data Tools: MySQL, PostgreSQL, MongoDB, SQLite, SQL Server, Redis, MariaDB, Oracle 
 - General tools: Entity Framework (.NET), Hibernate (Java), Sequelize (Node.js), Prisma, Postman, Swagger (OpenAPI), Insomnia
+- DevOps: Docker, Docker Compose, Kubernetes, GitHub Actions
+- Cloud: AWS services, Azure, Heroku, Vercel, Google Cloud Platform
 - SQA (Software Quality Assurance) Tools: Jest, Cypress, Mocha, JUnit, xUnit, Pytest, Testify
 - Version Control: Git, GitHub, GitLab
 - IDE: Visual Studio Code, Visual Studio, IntellJ, Eclipse
