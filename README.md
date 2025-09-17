@@ -1,43 +1,44 @@
-# Hi there, I'm Carolina 👋
+
+# Olá, eu sou a Carolina 👋
 
 <img src="https://i.picasion.com/pic91/dcf1f8b761cdfb472e271967f0142075.gif" alt="Profile Image" width="180" height="180">
 
-## About Me
+## Sobre Mim
 
-I'm a technology enthusiast passionate about programming. I've worked on various projects and I'm always eager to learn new things.
+Sou uma entusiasta de tecnologia apaixonada por programação. Já trabalhei em diversos projetos e estou sempre disposta a aprender coisas novas.
 
-My journey in the world of programming began 3 years ago, and since then, I've been on a continuous quest to learn, create, and share.
+Minha jornada no mundo da programação começou há 3 anos e, desde então, estou em uma busca contínua por aprender, criar e compartilhar.
 
-I find beauty in elegant code and efficiency in problem-solving. My area of expertise are back-end engineer. I enjoy turning ideas into reality and building digital solutions that make a difference.
+Vejo beleza em um código elegante e eficiência na resolução de problemas. Minha área de especialização é engenharia de back-end. Gosto de transformar ideias em realidade e construir soluções digitais que fazem a diferença.
 
-## Skills and Technologies
+## Habilidades e Tecnologias
 
-- Languages: JavaScript, TypeScript, Java, C#, Python, SQL, Golang
-- Frameworks: NodeJS, Spring, .NET, Django, NextJS
-- Data Tools: MySQL, PostgreSQL, MongoDB, SQLite, SQL Server, Redis, MariaDB, Oracle 
-- General tools: Entity Framework (.NET), Hibernate (Java), Sequelize (Node.js), Prisma, Postman, Swagger (OpenAPI), Insomnia
-- DevOps: Docker, Docker Compose, Kubernetes, GitHub Actions
-- Cloud: AWS services, Azure, Heroku, Vercel, Google Cloud Platform
-- SQA (Software Quality Assurance) Tools: Jest, Cypress, Mocha, JUnit, xUnit, Pytest, Testify
-- Version Control: Git, GitHub, GitLab
-- IDE: Visual Studio Code, Visual Studio, IntellJ, Eclipse
+- **Linguagens**: C#, Python, Java, JavaScript, TypeScript, SQL, Golang  
+- **Frameworks**: .NET, Spring, NodeJS, Django, NextJS  
+- **Ferramentas de Dados**: MySQL, PostgreSQL, MongoDB, SQLite, SQL Server, Redis, MariaDB, Oracle  
+- **Ferramentas Gerais**: Entity Framework (.NET), Hibernate (Java), Sequelize (Node.js), Prisma, Postman, Swagger (OpenAPI), Insomnia  
+- **DevOps**: Docker, Docker Compose, Kubernetes, GitHub Actions  
+- **Cloud**: Serviços da AWS, Azure, Heroku, Vercel, Google Cloud Platform  
+- **Ferramentas de Garantia de Qualidade de Software (SQA)**: Jest, Cypress, Mocha, JUnit, xUnit, Pytest, Testify  
+- **Controle de Versão**: Git, GitHub, GitLab  
+- **IDE**: Visual Studio Code, Visual Studio, IntelliJ, Eclipse
 
-## Connect with Me
+## Conecte-se Comigo
 
-You can find me on various platforms:
+Você pode me encontrar em várias plataformas:
 
-- [LinkedIn](https://www.linkedin.com/in/carolinapereiradev): Let's connect professionally.
-- [My Personal Portfolio](https://findcarolinacosta.vercel.app): Explore my tech and coding adventures.
+- [LinkedIn](https://www.linkedin.com/in/carolinapereiradev): Vamos nos conectar profissionalmente.
+- [Portfóliol Portfolio](https://findcarolinacosta.vercel.app): Explore minhas aventuras com tecnologia e programação.
 
-## Contact
+## Contato
 
-Feel free to reach out via email: carolinadacosta1997@gmail.com
+Sinta-se à vontade para entrar em contato por e-mail: **carolinadacosta1997@gmail.com**
 
-## Fun Facts
+## Curiosidades
 
-- 🌍 I'm based in Taboão da Serra, Brazil.
-- 🚀 I speak Portuguese, English, Spanish.
+- 🌍 Moro em Taboão da Serra, SP - Brasil.  
+- 🚀 Falo Português, Inglês e Espanhol.
 
-## Let's Collaborate!
+## Vamos Colaborar!
 
-If you're interested in collaborating on exciting projects or just want to chat about technology, don't hesitate to get in touch.
+Se você estiver interessado em colaborar em projetos empolgantes ou apenas quiser conversar sobre tecnologia, não hesite em entrar em contato.
